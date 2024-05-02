@@ -31,7 +31,7 @@
 
 - 📫 How to reach me **linhtutkyaw.dev@gmail.com**
 
-- 📄 Know about my experiences [my r](https://linhtutkyawdev.vercel.app/assets/cv/cv.pdf)
+- 📄 Know about my experiences [my resume](https://linhtutkyawdev.vercel.app/assets/cv/cv.pdf)
 
 - ⚡ Fun fact **I think I'm a nerd**
 
