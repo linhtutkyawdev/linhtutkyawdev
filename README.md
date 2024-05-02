@@ -47,7 +47,7 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,elysia,laravel,spring,fastapi" />
+    <img src="https://skillicons.dev/icons?i=nextjs,rust,elysia,laravel,spring,fastapi" />
   </a>
 </p>
 
