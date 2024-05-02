@@ -21,19 +21,19 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🔭 I’m currently working on **Kraken**
+- 🔭 I’m currently working on **Netflixify_Bot**
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Go Lang**
 
 - 👨‍💻 My recent projects are available at [linhtutkyaw's workspace](http://linhtutkyawdev.vercel.app/#works)
 
-- 💬 Ask me about **Rust, Javascript, Typescript, Java, Python, PHP and C Sharp**
+- 💬 Ask me about **Rust, Javascript, Typescript, Java, Python, PHP and C Sharp, Go**
 
 - 📫 How to reach me **linhtutkyaw.dev@gmail.com**
 
 - 📄 Know about my experiences [my r](https://linhtutkyawdev.vercel.app/assets/cv/cv.pdf)
 
-- ⚡ Fun fact **I think I'm funny**
+- ⚡ Fun fact **I think I'm a nerd**
 
 <br>
 <h3 align="left">Connect with me:</h3>
