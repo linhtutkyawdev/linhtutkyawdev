@@ -27,13 +27,13 @@
 
 - 👨‍💻 My recent projects are available at [linhtutkyaw's workspace](http://linhtutkyawdev.vercel.app/#works)
 
-- 💬 Ask me about **Rust, Javascript, Typescript, Java, Python, PHP and C Sharp, Go**
+- 💬 Ask me about **Javascript, Typescript, PHP, Golang, Rust, Python, Java, and C Sharp**
 
 - 📫 How to reach me **linhtutkyaw.dev@gmail.com**
 
 - 📄 Know about my experiences [my resume](https://linhtutkyawdev.vercel.app/assets/cv/cv.pdf)
 
-- ⚡ Fun fact **I think I'm a nerd**
+- ⚡ Fun fact **I think I'm super smart?**
 
 <br>
 <h3 align="left">Connect with me:</h3>
@@ -47,7 +47,7 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,rust,elysia,laravel,spring,fastapi" />
+    <img src="https://skillicons.dev/icons?i=nextjs,rust,go,elysia,laravel,spring,fastapi" />
   </a>
 </p>
 
