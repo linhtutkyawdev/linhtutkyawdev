@@ -103,6 +103,16 @@
 
 <br><br>
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/linhtutkyawdev"
+  width="600"
+  height="300"
+/>
+</a>
+
+<br><br>
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">Activity:</h3>
